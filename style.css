@@ -112,6 +112,11 @@ body {
   border-radius: 40%;
 }
 
+.video {
+  text-align: center;
+  margin: 20px 0 0;
+}
+
 .intro .about h3 {
   margin: 0 74px 9px;
 }
